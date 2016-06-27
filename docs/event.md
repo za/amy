@@ -1,7 +1,6 @@
+New events can be created by accepting a workshop request ***INSERT LINK HERE*** or by manually entering in a new event.
 
-
-A new event is created by clicking on "New Event" in top right corner.
-
+To manually create a new event, click on "New Event" in top right corner.
 
 * Import from URL
 * Slug
