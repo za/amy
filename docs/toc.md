@@ -13,6 +13,7 @@
 
 #### Dashboard
 * Timeline
+* Assigned
 * Current
 * Uninvoiced
 * Unpublished
