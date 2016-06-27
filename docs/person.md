@@ -1,5 +1,5 @@
 
-A new person is created by clicking on "New Person" in top right corner.
+A new individual person is created by clicking on "New Person" in top right corner.
 
 * Personal
 * Middle
@@ -17,3 +17,8 @@ A new person is created by clicking on "New Person" in top right corner.
 * Notes
 * Lessons
 * Domains
+
+
+Bulk add people
+
+* Follow *.csv format
