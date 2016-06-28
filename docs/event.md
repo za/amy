@@ -1,3 +1,10 @@
+
+#### [Creating new events manually] (#manually_create_event)
+#### [Creating new events by accepting a workshop request] (#accept_new_event_request)
+#### Editing existing events
+
+
+<a name = "manually_create_event"></a>
 New events can be created by accepting a workshop request ***INSERT LINK HERE*** or by manually entering in a new event.
 
 To manually create a new event, click on "New Event" in top right corner.
@@ -46,6 +53,10 @@ To manually create a new event, click on "New Event" in top right corner.
 * Notes
 * Location details
 * Survey results
+
+
+<a name = "accept_new_event_request"></a>
+Accepting a new event request
 
 
 Once an event is created, additional data can be entered.
