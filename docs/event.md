@@ -3,6 +3,8 @@ New events can be created by accepting a workshop request ***INSERT LINK HERE***
 To manually create a new event, click on "New Event" in top right corner.
 
 * Import from URL
+
+    If you have a valid URL for the event, AMY will create a new event from this URL's metadata.  For this to work you must have a properly formatted URL using either the [Software Carpentry template] (https://github.com/swcarpentry/workshop-template)  or [Data Carpentry template] (https://github.com/datacarpentry/workshop-template).  You will still need to edit the fields not collected in the webpage's metadata.
 * Slug
     * Unique identifier for workshop
     * Format:  YYYY-MM-DD-host_name (e.g., 2015-01-31-upenn)
