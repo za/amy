@@ -2,7 +2,7 @@
 #### [Creating new events manually] (#manually_create_event)
 #### [Creating new events by accepting a workshop request] (#accept_new_event_request)
 #### [Editing existing events] (#edit_existing_event)
-
+---
 
 <a name = "manually_create_event"></a>
 ##### Manually enter in a new event
@@ -63,10 +63,22 @@ Workshop requests appear in the "Workshop requests" option in the "More" menu.
 
 
 <a name = "edit_existing_event"></a>
-#### Editing existing events
+##### Editing existing events
 
-Once an event is created, additional data can be entered.
+Once an event is created, any previously entered data can be edited.  The following additional data can also be created:
+
 * Tasks
+
+    Roles of instructor, helper, host, organizer can be added here.  If a person's name does not exist in AMY, it can be added on the New Person page.  ***INSERT LINK HERE***
+
 * To-dos
+
+    Action items can be created.  These will show up on the timeline on the front page.
+
 * Assign to
+
+    A workshop can be assigned to a specific individual.  By default only these workshops will appear on that user's front page.
+
+
+
 
