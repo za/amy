@@ -33,9 +33,9 @@ To manually create a new event, click on "New Event" in top right corner.
 * Url
 * Eventbrite Key
 
-The public facing URL for an Eventbrite registraion page looks like https://www.eventbrite.com/e/name-of-event-01234567890. Enter the trailing digits here.  This will automatically generate a link to a page to edit the Eventbrite event in the form  https://www.eventbrite.com/myevent?eid=01234567890.  Eventbrite login is required.
+    The public facing URL for an Eventbrite registraion page looks like https://www.eventbrite.com/e/name-of-event-01234567890. Enter the trailing digits here.  This will automatically generate a link to a page to edit the Eventbrite event in the form  https://www.eventbrite.com/myevent?eid=01234567890.  Eventbrite login is required.
 
-Leave blank if event is not using Eventbrite for registration.  
+    Leave blank if event is not using Eventbrite for registration.  
 
 * Admin Fee
 * Invoice Status
