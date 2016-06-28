@@ -1,10 +1,11 @@
 
 #### [Creating new events manually] (#manually_create_event)
 #### [Creating new events by accepting a workshop request] (#accept_new_event_request)
-#### Editing existing events
+#### [Editing existing events] (#edit_existing_event)
 
 
 <a name = "manually_create_event"></a>
+##### Manually enter in a new event
 New events can be created by accepting a workshop request ***INSERT LINK HERE*** or by manually entering in a new event.
 
 To manually create a new event, click on "New Event" in top right corner.
@@ -56,8 +57,13 @@ To manually create a new event, click on "New Event" in top right corner.
 
 
 <a name = "accept_new_event_request"></a>
-Accepting a new event request
+##### Accepting a new event request
 
+Workshop requests appear in the "Workshop requests" option in the "More" menu.  
+
+
+<a name = "edit_existing_event"></a>
+#### Editing existing events
 
 Once an event is created, additional data can be entered.
 * Tasks
