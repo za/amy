@@ -20,7 +20,16 @@ To manually create a new event, click on "New Event" in top right corner.
         * Self organized
         * Software Carpentry Admin
         * Data Carpentry Admin
-* Tags
+* Tags - Multiple tags can be selected
+    * SWC: Software Carpentry
+    * DC: Data Carpentry
+    * LC: Library Carpentry
+    * WiSE: Women in Science & Engineering
+    * TTT: Train the trainer (instructor training workshop)
+    * Online: Web based event
+    * Stalled: Planning began but workshop never came to be
+    * Unresponsive: Host/instructors did not send attendance data after workshop was over
+    * Hackathon: 
 * Url
 * Eventbrite Key
 * Admin Fee
